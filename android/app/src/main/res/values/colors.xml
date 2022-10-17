@@ -1,0 +1,4 @@
+<resources>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">(api key here)</string>
+    <color name="primary_dark">#000000</color>
+</resources>
